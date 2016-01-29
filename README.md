@@ -1,5 +1,5 @@
-frontend-nanodegree-arcade-game
-===============================
+<h1>JavaScript animation using canvas in Arcade-game </h1>
+
 
 
 Game starts with the boy standing in the grass area. Between grass and water area is a road with 3 rows with constantly moving enemies.
